@@ -1,0 +1,17 @@
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\SeleniumVstudio.csproj.CoreCompileInputs.cache
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\SeleniumVstudio.csproj.CopyComplete
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\aharbers001\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

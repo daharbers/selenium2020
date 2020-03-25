@@ -33,7 +33,7 @@ namespace testinGoogle
                 var searchBox = driver.FindElementByName("q");
                 wait.Until(ExpectedConditions.ElementToBeClickable(searchBox));
                 // 4. Enter the text (to search for) in the textbox
-                searchBox.SendKeys("Adriaan test 25 Maart Automation using selenium 3.0 in C#");
+                searchBox.SendKeys("Automation using selenium 3.0 in C#");
 
                 // 5. Find the search button (by Name) on the homepage
                 var searchButton = driver.FindElementByName("btnK");
